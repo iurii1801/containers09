@@ -393,8 +393,6 @@ docker container rm mynginx
 
 ![image](https://i.imgur.com/Z2ctN5C.png)
 
-## Запуск и тестирование
-
 - **Проверка размеров образов**
 
 ```powershell
